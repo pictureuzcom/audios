@@ -1,0 +1,72 @@
+[
+    {
+      "id": "k1",
+      "title": "Halqa",
+      "imgUrl": "https://assets.asaxiy.uz/product/items/desktop/5680522b8e2bb01943234bce7bf845342021080816042949434tMMw9nQghj.jpg.webp",
+      "author": "Akrom Malik",
+      "description": "",
+      "categoryId": "new",
+      "eachAudio": [
+        {
+          "id": "h1",
+          "audioUrl": "https://github.com/pictureuzcom/audios/blob/main/%D2%B2%D0%90%D0%9B%D2%9A%D0%90%201-%D0%B1%D0%BE%D0%B1%20_%20%D0%90%D1%83%D0%B4%D0%B8%D0%BE%D0%BA%D0%B8%D1%82%D0%BE%D0%B1.mp3",
+          "title": "Halqa",
+          "number": 1
+        },
+        {
+          "id": "h2",
+          "audioUrl": "https://github.com/pictureuzcom/audios/blob/main/%D2%B2%D0%90%D0%9B%D2%9A%D0%90%202-%D0%B1%D0%BE%D0%B1%20_%20%D0%90%D1%83%D0%B4%D0%B8%D0%BE%D0%BA%D0%B8%D1%82%D0%BE%D0%B1.mp3",
+          "title": "Halqa",
+          "number": 2
+        },
+        {
+            "id": "h1",
+            "audioUrl": "https://github.com/pictureuzcom/audios/blob/main/%D2%B2%D0%90%D0%9B%D2%9A%D0%90%203-%D0%B1%D0%BE%D0%B1%20_%20%D0%90%D1%83%D0%B4%D0%B8%D0%BE%D0%BA%D0%B8%D1%82%D0%BE%D0%B1.mp3",
+            "title": "Halqa",
+            "number": 3
+          },
+          {
+            "id": "h2",
+            "audioUrl": "https://github.com/pictureuzcom/audios/blob/main/%D2%B2%D0%90%D0%9B%D2%9A%D0%90%204-%D0%B1%D0%BE%D0%B1%20_%20%D0%90%D1%83%D0%B4%D0%B8%D0%BE%D0%BA%D0%B8%D1%82%D0%BE%D0%B1.mp3",
+            "title": "Halqa",
+            "number": 4
+          },
+          {
+            "id": "h1",
+            "audioUrl": "https://github.com/pictureuzcom/audios/blob/main/%D2%B2%D0%90%D0%9B%D2%9A%D0%90%205-%D0%B1%D0%BE%D0%B1%20_%20%D0%90%D1%83%D0%B4%D0%B8%D0%BE%D0%BA%D0%B8%D1%82%D0%BE%D0%B1.mp3",
+            "title": "Halqa",
+            "number": 5
+          },
+          {
+            "id": "h2",
+            "audioUrl": "https://github.com/pictureuzcom/audios/blob/main/%D2%B2%D0%90%D0%9B%D2%9A%D0%90%206-%D0%B1%D0%BE%D0%B1%20_%20%D0%90%D1%83%D0%B4%D0%B8%D0%BE%D0%BA%D0%B8%D1%82%D0%BE%D0%B1.mp3",
+            "title": "Halqa",
+            "number": 6
+          },
+          {
+            "id": "h1",
+            "audioUrl": "https://github.com/pictureuzcom/audios/blob/main/%D2%B2%D0%90%D0%9B%D2%9A%D0%90%207-%D0%B1%D0%BE%D0%B1%20_%20%D0%90%D1%83%D0%B4%D0%B8%D0%BE%D0%BA%D0%B8%D1%82%D0%BE%D0%B1.mp3",
+            "title": "Halqa",
+            "number": 7
+          },
+          {
+            "id": "h2",
+            "audioUrl": "https://github.com/pictureuzcom/audios/blob/main/%D2%B2%D0%90%D0%9B%D2%9A%D0%90%208-%D0%B1%D0%BE%D0%B1%20_%20%D0%90%D1%83%D0%B4%D0%B8%D0%BE%D0%BA%D0%B8%D1%82%D0%BE%D0%B1.mp3",
+            "title": "Halqa",
+            "number": 8
+          },
+          {
+            "id": "h2",
+            "audioUrl": "https://github.com/pictureuzcom/audios/blob/main/%D2%B2%D0%90%D0%9B%D2%9A%D0%90%209-%D0%B1%D0%BE%D0%B1%20_%20%D0%90%D1%83%D0%B4%D0%B8%D0%BE%D0%BA%D0%B8%D1%82%D0%BE%D0%B1.mp3",
+            "title": "Halqa",
+            "number": 9
+          },
+          {
+            "id": "h2",
+            "audioUrl": "https://github.com/pictureuzcom/audios/blob/main/%D2%B2%D0%90%D0%9B%D2%9A%D0%90%2010-%D0%B1%D0%BE%D0%B1%20_%20%D0%90%D1%83%D0%B4%D0%B8%D0%BE%D0%BA%D0%B8%D1%82%D0%BE%D0%B1.mp3",
+            "title": "Halqa",
+            "number": 10
+          }
+      ]
+    }
+]
